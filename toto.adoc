@@ -14,21 +14,21 @@ Website for Travis-Util
 * **Comments are unsupported**!
 
 ### Highlight
-* travis-util/[highlight](https://github.com/travis-util/highlight)
-* [highlight](https://tracker.debian.org/pkg/highlight)@debian
+* travis-util/ https://github.com/travis-util/highlight[highlight]
+* https://tracker.debian.org/pkg/highlight[highlight]@debian
 
 #### Unsupported file types
 * .md
 * .yml
 
 ### Pygments
-* travis-util/[pygments-python-pip](https://github.com/travis-util/pygments-python-pip)
-* travis-util/[pygments-pip-not-python](https://github.com/travis-util/pygments-pip-not-python)
-* [Pygments](https://pypi.python.org/pypi/Pygments)@python
+* travis-util/ https://github.com/travis-util/pygments-python-pip[pygments-python-pip]
+* travis-util/ https://github.com/travis-util/pygments-pip-not-python[pygments-pip-not-python]
+* https://pypi.python.org/pypi/Pygments[Pygments]@python
 
 ### Source-highlight
-* travis-util/[source-highlight](https://github.com/travis-util/source-highlight)
-* [source-highlight](https://tracker.debian.org/pkg/source-highlight)@debian
+* travis-util/ https://github.com/travis-util/source-highlight[source-highlight]
+* https://tracker.debian.org/pkg/source-highlight[source-highlight]@debian
 
 #### Unsupported file types
 * .md
