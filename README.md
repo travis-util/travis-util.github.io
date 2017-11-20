@@ -28,7 +28,7 @@ Website for Travis-Util
 ### .html (HTML)
 ```sh
 pygmentize -O linenos=1 <file>.html # Yet to test!
-pygmentize -f html -O full,linenos=1,style=vim <file>.html | elinks -force-html -dump -dump-color-mode 1
+pygmentize -f html -O style=vim,linenos=1,full <file>.html | elinks -force-html -dump -dump-color-mode 1
 ```
 ### .md (Markdown)
 * Why colorize? (Github makes it already! In edit mode...)
@@ -40,7 +40,7 @@ php -s <file>.php | elinks -force-html -dump -dump-color-mode 1
 ### .py (Python)
 ```sh
 pygmentize -O linenos=1 <file>.py
-pygmentize -f html -O full,linenos=1,style=vim <file>.py | elinks -force-html -dump -dump-color-mode 1
+pygmentize -f html -O style=vim,linenos=1,full <file>.py | elinks -force-html -dump -dump-color-mode 1
 ```
 ### .yml (YAML)
 ```sh
