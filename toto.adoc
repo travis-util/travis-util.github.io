@@ -1,7 +1,8 @@
 # travis-util.github.io
 Website for Travis-Util
-* auto-gen TOC:
-{:toc}
+:toc: macro
+:toc-title:
+:toclevels: 9
 # Colorizing output
 ## Tools for colorizing
 ### Ccat
