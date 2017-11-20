@@ -36,6 +36,7 @@ pygmentize -f html -O full,linenos=1,style=vim <file>.html | elinks -force-html 
 ```sh
 php -s <file>.php | elinks -force-html -dump -dump-color-mode 1
 ```
+* .php files are downloaded or produced by symfony/flex
 ### .py (Python)
 ```sh
 pygmentize -O linenos=1 <file>.py
@@ -43,7 +44,7 @@ pygmentize -f html -O full,linenos=1,style=vim <file>.py | elinks -force-html -d
 ```
 ### .yml (YAML)
 ```sh
-pygmentize -P style=manni -f 256 <file>.yaml
-pygmentize -P style=vim -f html -O full -P linenos=1 <file>.yaml | elinks -force-html -dump -dump-color-mode 1
+pygmentize -O style=manni -f 256 <file>.yaml
+pygmentize -f html -O style=vim,linenos=1,full <file>.yaml | elinks -force-html -dump -dump-color-mode 1
 ```
 * .yml files are downloaded or produced by symfony/flex
