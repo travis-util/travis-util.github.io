@@ -31,7 +31,7 @@ pygmentize -O linenos=1 <file>.html # Yet to test!
 pygmentize -f html -O full,linenos=1,style=vim <file>.html | elinks -force-html -dump -dump-color-mode 1
 ```
 ### .md (Markdown)
-* Why colorize? Github makes it already!
+* Why colorize? (Github makes it already! In edit mode...)
 ### .php (PHP)
 ```sh
 php -s <file>.php | elinks -force-html -dump -dump-color-mode 1
