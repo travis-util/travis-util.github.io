@@ -6,8 +6,8 @@ Website for Travis-Util
 # Colorizing output
 ## Tools for colorizing
 ### Ccat
-* jingweno/[ccat](https://github.com/jingweno/ccat)
-* [ccat](https://google.com/search?q=ccat+site:debian.org)@site:debian
+* jingweno/ https://github.com/jingweno/ccat[ccat]
+* https://google.com/search?q=ccat+site:debian.org[ccat]@site:debian
 #### Supported file types
 ##### .yml (YAML)
 * **Comments are unsupported**!
