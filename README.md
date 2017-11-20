@@ -37,4 +37,4 @@ php -s <file>.php | elinks -force-html -dump -dump-color-mode 1
 ### .py (Python)
 ### .yml (YAML)
 
-[https://github.com/jingweno/ccat]: https://github.com/jingweno/ccat tadah
+[https://github.com/jingweno/ccat]: https://github.com/jingweno/ccat
