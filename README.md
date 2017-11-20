@@ -1,5 +1,7 @@
 # travis-util.github.io
 Website for Travis-Util
+* auto-gen TOC:
+{:toc}
 # Colorizing output
 ## Tools for colorizing
 ### Ccat
