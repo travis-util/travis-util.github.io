@@ -17,8 +17,8 @@ toc::[]
 * https://google.com/search?q=ccat+site:debian.org[ccat]@site:debian
 
 #### Supported file types
-##### .yml (YAML)
-* **Comments are unsupported**!
+* .yml (YAML)
+  - **Comments are unsupported**!
 
 ### Highlight
 * travis-util/ https://github.com/travis-util/highlight[highlight]
