@@ -10,6 +10,7 @@ Website for Travis-Util
 #### Supported file types
 * .yml (YAML)
   - **Comments are unsupported**!
+
 ### Highlight
 * travis-util/[highlight](https://github.com/travis-util/highlight)
 * [highlight](https://tracker.debian.org/pkg/highlight)@debian
