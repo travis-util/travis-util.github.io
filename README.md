@@ -8,8 +8,8 @@ Website for Travis-Util
 * jingweno/[ccat](https://github.com/jingweno/ccat)
 * [ccat](https://google.com/search?q=ccat+site:debian.org)@site:debian
 #### Supported file types
-##### .yml (YAML)
-* **Comments are unsupported**!
+* .yml (YAML)
+  - **Comments are unsupported**!
 ### Highlight
 * travis-util/[highlight](https://github.com/travis-util/highlight)
 * [highlight](https://tracker.debian.org/pkg/highlight)@debian
