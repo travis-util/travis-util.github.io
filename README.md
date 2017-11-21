@@ -69,3 +69,6 @@ pygmentize -O style=manni -f 256 <file>.yaml
 pygmentize -f html -O style=vim,linenos=1,full <file>.yaml | elinks -force-html -dump -dump-color-mode 1
 ```
 * .yml files are downloaded or produced by symfony/flex
+
+# See also
+* [github-util.github.io](https://github-util.github.io/)
