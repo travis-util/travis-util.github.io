@@ -28,9 +28,9 @@ Website for Travis-Util
 * travis-util/[pygments-pip-not-python][]
 * [Pygments][]@python
 
-[pygments-python-pip]: https://github.com/travis-util/pygments-python-pip
-[pygments-pip-not-python]: https://github.com/travis-util/pygments-pip-not-python
-[Pygments]: https://pypi.python.org/pypi/Pygments
+[pygments-python-pip]: https://github.com/travis-util/pygments-python-pip "GitHub"
+[pygments-pip-not-python]: https://github.com/travis-util/pygments-pip-not-python "GitHub"
+[Pygments]: https://pypi.python.org/pypi/Pygments "pypi.python.org"
 
 ### Source-highlight
 * travis-util/[source-highlight](https://github.com/travis-util/source-highlight)
