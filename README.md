@@ -71,4 +71,4 @@ pygmentize -f html -O style=vim,linenos=1,full <file>.yaml | elinks -force-html 
 * .yml files are downloaded or produced by symfony/flex
 
 # See also
-* [github-util.github.io](https://github-util.github.io/)
+* [github-wiki.github.io](https://github-wiki.github.io/)
