@@ -72,9 +72,9 @@ pygmentize -f html -O style=vim,linenos=1,full <file>.yaml | elinks -force-html 
 
 # Deployment and repository update
 * [travis update repository](https://www.google.ca/search?q=travis+update+repository)
-* [Deployment](https://docs.travis-ci.com/user/deployment/)
+* [*Deployment*](https://docs.travis-ci.com/user/deployment/)
 
-## [GitHub Pages Deployment](GitHub Pages Deployment)
+## [GitHub Pages Deployment](https://docs.travis-ci.com/user/deployment/pages/)
 
 ## [GitHub Releases Uploading](https://docs.travis-ci.com/user/deployment/releases/)
 
