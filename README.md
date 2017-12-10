@@ -70,5 +70,14 @@ pygmentize -f html -O style=vim,linenos=1,full <file>.yaml | elinks -force-html 
 ```
 * .yml files are downloaded or produced by symfony/flex
 
+# Deployment and repository update
+* [travis update repository](https://www.google.ca/search?q=travis+update+repository)
+* [Deployment](https://docs.travis-ci.com/user/deployment/)
+
+## [GitHub Pages Deployment](GitHub Pages Deployment)
+
+## [GitHub Releases Uploading](https://docs.travis-ci.com/user/deployment/releases/)
+
+
 # See also
 * [github-wiki.github.io](https://github-wiki.github.io/)
