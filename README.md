@@ -78,6 +78,16 @@ pygmentize -f html -O style=vim,linenos=1,full <file>.yaml | elinks -force-html 
 
 ## [GitHub Releases Uploading](https://docs.travis-ci.com/user/deployment/releases/)
 
+# Windows with Wine
+## Batch Scripting
+### Intro and Syntax
+* [run windows batch file on linux](https://google.com/search?q=run+windows+batch+file+on+linux)
+* [*Batch_file*](https://en.wikipedia.org/wiki/Batch_file)
+* [*Windows Batch Scripting*](https://en.wikibooks.org/wiki/Windows_Batch_Scripting)
+
+### How to make them run
+* [*Running Windows Batch Files on Linux*](https://www.linux.org/threads/running-windows-batch-files-on-linux.11205/)
+* [*Run .bat in Linux environment*](https://stackoverflow.com/questions/12680998/run-bat-in-linux-environment)
 
 # See also
 * [github-wiki.github.io](https://github-wiki.github.io/)
