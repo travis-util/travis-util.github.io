@@ -89,5 +89,10 @@ pygmentize -f html -O style=vim,linenos=1,full <file>.yaml | elinks -force-html 
 * [*Running Windows Batch Files on Linux*](https://www.linux.org/threads/running-windows-batch-files-on-linux.11205/)
 * [*Run .bat in Linux environment*](https://stackoverflow.com/questions/12680998/run-bat-in-linux-environment)
 
+# Travis configuration
+## Path
+### Some directories in the PATH
+* /home/travis/.local/bin (This directory does not exist).
+
 # See also
 * [github-wiki.github.io](https://github-wiki.github.io/)
