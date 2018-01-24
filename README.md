@@ -97,7 +97,7 @@ pygmentize -f html -O style=vim,linenos=1,full <file>.yaml | elinks -force-html 
 > - There can't be any leading "-"s - All newlines will be removed, so use
 > ";"s
 
-* https://github.com/nipy/dipy/blob/master/.travis.yml
+* [nipy/dipy/.../.travis.yml](https://github.com/nipy/dipy/blob/master/.travis.yml)
 
 Other references
 * [travis multiline script @ Google](https://google.com/search?q=travis+multiline+script)
