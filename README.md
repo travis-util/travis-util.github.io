@@ -90,6 +90,20 @@ pygmentize -f html -O style=vim,linenos=1,full <file>.yaml | elinks -force-html 
 * [*Run .bat in Linux environment*](https://stackoverflow.com/questions/12680998/run-bat-in-linux-environment)
 
 # Travis configuration
+## Multiline statements
+> Multiple lines can be made a single "virtual line" because of the way that
+> Travis munges each line before executing it to print out the exit status.
+> It's okay for it to be on multiple physical lines, so long as you remember:
+> - There can't be any leading "-"s - All newlines will be removed, so use
+> ";"s
+* https://github.com/nipy/dipy/blob/master/.travis.yml
+Other references
+* https://google.com/search?q=travis+multiline+script
+* *[How to use multiline command in 'script:' with YAML?](https://stackoverflow.com/questions/38745696/how-to-use-multiline-command-in-script-with-yaml)*
+* [*Multi-line if statements in .travis.yml*](https://groups.google.com/forum/#!topic/travis-ci/uaAP9zEdiCg)
+* [*Travis CI and If Statements*](http://steven.casagrande.io/articles/travis-ci-and-if-statements/)
+* [*Writing a multiline command in configuration file*](https://discuss.circleci.com/t/writing-a-multiline-command-in-configuration-file/3042)
+
 ## Path
 ### Some directories in the PATH
 * /home/travis/.local/bin (This directory does not exist).
