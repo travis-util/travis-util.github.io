@@ -96,10 +96,11 @@ pygmentize -f html -O style=vim,linenos=1,full <file>.yaml | elinks -force-html 
 > It's okay for it to be on multiple physical lines, so long as you remember:
 > - There can't be any leading "-"s - All newlines will be removed, so use
 > ";"s
+
 * https://github.com/nipy/dipy/blob/master/.travis.yml
 
 Other references
-* https://google.com/search?q=travis+multiline+script
+* [travis multiline script @ Google](https://google.com/search?q=travis+multiline+script)
 * *[How to use multiline command in 'script:' with YAML?](https://stackoverflow.com/questions/38745696/how-to-use-multiline-command-in-script-with-yaml)*
 * [*Multi-line if statements in .travis.yml*](https://groups.google.com/forum/#!topic/travis-ci/uaAP9zEdiCg)
 * [*Travis CI and If Statements*](http://steven.casagrande.io/articles/travis-ci-and-if-statements/)
