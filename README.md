@@ -48,6 +48,11 @@ pygmentize -O linenos=1 <file>.html # Yet to test!
 pygmentize -f html -O style=vim,linenos=1,full <file>.html | elinks -force-html -dump -dump-color-mode 1
 ```
 
+### .js (Javascript)
+```sh
+pygmentize -P style=vim -f html -O full -P linenos=1 hello.js | elinks -force-html -dump-color-mode 1 -dump
+```
+
 ### .md (Markdown)
 * Why colorize? (Github makes it already! In edit mode...)
 
