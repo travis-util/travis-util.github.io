@@ -116,4 +116,6 @@ Other references
 * /home/travis/.local/bin (This directory does not exist).
 
 # See also
-* [github-wiki.github.io](https://github-wiki.github.io/)
+* [github-wiki](https://github-wiki.github.io/)
+* [symfony-util](https://symfony-util.github.io)
+* [symfony-flex-demo](https://symfony-flex-demo.github.io)
