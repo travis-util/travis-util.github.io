@@ -96,6 +96,15 @@ pygmentize -f html -O style=vim,linenos=1,full <file>.yaml | elinks -force-html 
 
 # Travis configuration
 ## Multiline statements
+With `- |`
+```sh
+- |
+  composer create-project --no-install symfony/skeleton
+  cd skeleton
+  composer config bin-dir bin
+  composer install
+```
+## Multiline statements (oudated)
 > Multiple lines can be made a single "virtual line" because of the way that
 > Travis munges each line before executing it to print out the exit status.
 > It's okay for it to be on multiple physical lines, so long as you remember:
