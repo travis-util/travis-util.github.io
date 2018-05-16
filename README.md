@@ -96,7 +96,8 @@ pygmentize -f html -O style=vim,linenos=1,full <file>.yaml | elinks -force-html 
 
 # Travis configuration
 ## Multiline statements
-With `- |`
+### With `- |`
+#### Example
 ```sh
 - |
   composer create-project --no-install symfony/skeleton
@@ -104,6 +105,8 @@ With `- |`
   composer config bin-dir bin
   composer install
 ```
+#### Documentation references
+* [*How to escape indicator characters (i.e. : or - ) in YAML*](https://stackoverflow.com/questions/11301650/how-to-escape-indicator-characters-i-e-or-in-yaml)
 ## Multiline statements (oudated)
 > Multiple lines can be made a single "virtual line" because of the way that
 > Travis munges each line before executing it to print out the exit status.
